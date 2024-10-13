@@ -1,6 +1,6 @@
 from turtle import Turtle
 
-filename = "../100 days of python code/Day20(snake game)/snakedata.txt"
+filename = "snakedata.txt"
 with open(filename) as f:
     score = int(f.read())
     print(score)
