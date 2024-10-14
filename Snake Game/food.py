@@ -1,4 +1,4 @@
-from turtle import Turtle
+rom turtle import Turtle
 import random
 
 class Food(Turtle):
